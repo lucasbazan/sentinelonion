@@ -22,6 +22,8 @@
 ---
 
 ## 🌌 Supported Networks
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flucasbazan%2Fsentinelonion.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flucasbazan%2Fsentinelonion?ref=badge_shield)
+
 
 - **Tor (.onion)**
 - **I2P (.i2p)**
@@ -150,3 +152,7 @@ rule Bitcoin_Wallet {
 
 SentinelOnion is a tool created for academic research, security studies, and digital forensics.
 It must not be used for illegal activities. The author is not responsible for misuse.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flucasbazan%2Fsentinelonion.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flucasbazan%2Fsentinelonion?ref=badge_large)
